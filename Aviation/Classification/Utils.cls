@@ -12,6 +12,8 @@ Class Aviation.Classification.Utils
 
 // commit to QA    
 
+/// Commit deploy 1.0
+
 /// Demonstration method using the <method>%iKnow.Classification.Builder</method> API to
 /// create a simple classifier on the Aviation Events demo.
 ClassMethod CreateClassifier() As %Status
